@@ -1,11 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      [^_^]:<p><b>硕士研究生</b></p>
-     [^_^]: <p><b>××大学××学院</b></p>
       <p><b>邮箱：Jaccooboo@outlook.com</b></p>
-     [^_^]: <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
       <img src="/HJ.Jpeg" width="100%">      % Life
